@@ -23,6 +23,8 @@ PUGG, reserves the rights to prohibit any user or any server from using global c
 2. You must not use global chat for fraudulent activities or advertising.
 3. Ratelimits can be imposed on servers which cause overload in the global chat.
 
+
+
 # PUGG-s-Transaction-bot-Privacy-Policy
 The Privacy Policy for PUGG's Transaction Bot
 
